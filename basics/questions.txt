@@ -1,1 +1,2 @@
 1. write a shell script that runs a python script
+2. write a script that prints a string "It is well"
