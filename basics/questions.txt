@@ -1,2 +1,5 @@
 1. write a shell script that runs a python script
 2. write a script that prints a string "It is well"
+3. Given two Strings, the task is to concatenate the two Strings using Command Line Arguments. Examples:
+Input: str1 = "hello", str2 = "world"
+Output: helloworld
