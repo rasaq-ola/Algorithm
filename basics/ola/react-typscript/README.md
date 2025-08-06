@@ -9,7 +9,7 @@ This challenge combines **React + TypeScript learning** with **daily algorithm p
 
 | Day | React + TypeScript (Track A) | Algorithm (Track B) | Status |
 |-----|------------------------------|---------------------|--------|
-| 1   | Setup React + TS project, run Hello World | Greet a user by name | ⬜ |
+| 1   | Setup React + TS project, run Hello World | Greet a user by name | ✅ |
 | 2   | Create a `<Welcome />` component with props | Add two numbers | ⬜ |
 | 3   | Props with different TS types | Check if a number is even or odd | ⬜ |
 | 4   | useState for a counter | Largest number in array | ⬜ |
